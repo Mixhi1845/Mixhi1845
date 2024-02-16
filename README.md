@@ -13,17 +13,20 @@
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Mixhi1845)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Mixhi1845)
-<!--[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)-->
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Mixhi1845)
+[![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge)](https://github.com/Mixhi1845)
 
 ### Technologies & Frameworks
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/Mixhi1845)
+[![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=Tailwindcss)](https://github.com/Mixhi1845)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Mixhi1845)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Mixhi1845)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Mixhi1845)
-<!--[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)-->
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Mixhi1845)
-<!--[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)-->
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu)](https://github.com/Mixhi1845)
+[![RaspberryPiOS](https://img.shields.io/badge/RaspberryPi_OS-black?style=for-the-badge&logo=RaspberryPi)](https://github.com/Mixhi1845)
 
 <details>
 <p align="center">
@@ -41,16 +44,3 @@
   </a>
 </p>
 </details>
-
-<!--
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=mixhi1845&color=blue&style=flat)" />
-  </a>
-</p>
-
-- 👋 Hi, I’m @Mixhi1845
-- 👀 I’m interested in Tech, Science and Design
-- 🌱 I’m currently learning Graphic Design
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me? Best by Email-->
