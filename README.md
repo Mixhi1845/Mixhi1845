@@ -2,10 +2,9 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
         I'm Michael.<br>
-        student interested in webdev and design.<br>
-    </i><br>
+        interested in webdev and design.<br>
+    <br>
     <a href="mailto:wagnermichael1845@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
@@ -30,17 +29,10 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/mixhi1845">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mixhi1845&theme=transparent" />
-  </a>
-  <a href="https://github.com/mixhi1845">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixhi1845&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/mixhi1845">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mixhi1845&theme=transparent" />
-  </a>
-  <a href="https://github.com/rupertiexplorer">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupertiexplorer&theme=transparent" />
-  </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mixhi1845&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mixhi1845&theme=transparent" />
 </p>
 </details>
