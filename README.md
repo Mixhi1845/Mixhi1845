@@ -17,6 +17,7 @@
 
 ### Technologies & Frameworks
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/Mixhi1845)
+[![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel)](https://github.com/Mixhi1845)
 [![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=Tailwindcss)](https://github.com/Mixhi1845)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Mixhi1845)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Mixhi1845)
